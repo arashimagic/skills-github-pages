@@ -9,7 +9,8 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+Hi, I’m Brody
+I’m learning how to use GitHub — this is part of my 7 Days of GitHub journey!
 
 </header>
 
